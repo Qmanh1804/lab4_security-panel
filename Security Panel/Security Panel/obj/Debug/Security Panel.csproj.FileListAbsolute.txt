@@ -1,0 +1,11 @@
+C:\Users\Qmanh\source\repos\Security Panel\Security Panel\bin\Debug\Security Panel.exe.config
+C:\Users\Qmanh\source\repos\Security Panel\Security Panel\bin\Debug\Security Panel.exe
+C:\Users\Qmanh\source\repos\Security Panel\Security Panel\bin\Debug\Security Panel.pdb
+C:\Users\Qmanh\source\repos\Security Panel\Security Panel\obj\Debug\Security Panel.csproj.AssemblyReference.cache
+C:\Users\Qmanh\source\repos\Security Panel\Security Panel\obj\Debug\Security Panel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Qmanh\source\repos\Security Panel\Security Panel\obj\Debug\Security_Panel.Form1.resources
+C:\Users\Qmanh\source\repos\Security Panel\Security Panel\obj\Debug\Security_Panel.Properties.Resources.resources
+C:\Users\Qmanh\source\repos\Security Panel\Security Panel\obj\Debug\Security Panel.csproj.GenerateResource.cache
+C:\Users\Qmanh\source\repos\Security Panel\Security Panel\obj\Debug\Security Panel.csproj.CoreCompileInputs.cache
+C:\Users\Qmanh\source\repos\Security Panel\Security Panel\obj\Debug\Security Panel.exe
+C:\Users\Qmanh\source\repos\Security Panel\Security Panel\obj\Debug\Security Panel.pdb
